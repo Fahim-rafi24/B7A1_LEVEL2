@@ -6,13 +6,13 @@
 
 ## 📋 Table of Contents
 
-- [Overview]()
-- [Tech Stack]()
-- [Project Structure]()
-- [Problem Solutions]()
-- [Blog Posts]()
-- [How to Run]()
-- [Author]()
+- Overview
+- Tech Stack
+- Project Structure
+- Problem Solutions
+- Blog Posts
+- How to Run
+- Author
 
 ---
 
